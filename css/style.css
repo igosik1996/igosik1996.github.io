@@ -1,0 +1,39 @@
+.heading{
+  font-size: 45px;
+}
+.main{
+  background: url('https://previews.123rf.com/images/ijeab/ijeab1606/ijeab160600315/58725926-View-from-above-of-office-supplies-on-a-white-working-table-background--Stock-Photo.jpg');
+  height:100vh;
+}
+.centered{
+  display:flex;
+  justify-content:center;
+  align-items:center;
+  text-align:center;
+  flex-direction:column;
+  
+}
+.about{
+  background:#5f7ca8;
+  height:100vh;
+}
+.strong-sides{
+  height:50vh;
+  padding:45px;
+}
+.glyphicon{
+  font-size:50px;
+}
+.pics{
+  height:100vh;
+}
+.contacts{
+  height:100vh;
+  background:#8ea7ce;
+}
+.menu {
+  position: fixed;
+  top: 0;
+  background: white;
+  z-index: 1000;
+}
